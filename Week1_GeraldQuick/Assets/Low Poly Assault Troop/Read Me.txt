@@ -1,0 +1,16 @@
+Low poly Assault Trooper
+He is rigged and animated.Textures are hand painted and in PSD format. 
+1078 tris 
+
+Animation frames
+0-10 = T pose
+10 -50 = Idle
+51 - 65 = Take damage
+71 - 105 = Death
+112 - 129 = Run
+132 - 149 = Run, Attack Single shot
+152 - 169 = Run, Rapid fire
+171 - 185 = Stand, Attack Single shot
+191 - 200 = stand, Rapid fire
+201 - 240 = Forwad roll
+

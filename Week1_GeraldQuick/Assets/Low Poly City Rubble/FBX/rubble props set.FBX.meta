@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 37b22b765562aca42adabcf7e61be29e
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: bigrubble01
+    100002: bigrubble02
+    100004: bigrubble03
+    100006: bigrubble04
+    100008: metalframe
+    100010: pillar01
+    100012: pillar02
+    100014: //RootNode
+    100016: smallrubble01
+    100018: smallrubble02
+    100020: smallrubble03
+    100022: wall01
+    100024: wall02
+    100026: wall03withsides
+    100028: wall04withsides
+    400000: bigrubble01
+    400002: bigrubble02
+    400004: bigrubble03
+    400006: bigrubble04
+    400008: metalframe
+    400010: pillar01
+    400012: pillar02
+    400014: //RootNode
+    400016: smallrubble01
+    400018: smallrubble02
+    400020: smallrubble03
+    400022: wall01
+    400024: wall02
+    400026: wall03withsides
+    400028: wall04withsides
+    2300000: bigrubble01
+    2300002: bigrubble02
+    2300004: bigrubble03
+    2300006: bigrubble04
+    2300008: metalframe
+    2300010: pillar01
+    2300012: pillar02
+    2300014: smallrubble01
+    2300016: smallrubble02
+    2300018: smallrubble03
+    2300020: wall01
+    2300022: wall02
+    2300024: wall03withsides
+    2300026: wall04withsides
+    3300000: bigrubble01
+    3300002: bigrubble02
+    3300004: bigrubble03
+    3300006: bigrubble04
+    3300008: metalframe
+    3300010: pillar01
+    3300012: pillar02
+    3300014: smallrubble01
+    3300016: smallrubble02
+    3300018: smallrubble03
+    3300020: wall01
+    3300022: wall02
+    3300024: wall03withsides
+    3300026: wall04withsides
+    4300000: smallrubble01
+    4300002: pillar01
+    4300004: bigrubble01
+    4300006: bigrubble03
+    4300008: bigrubble02
+    4300010: bigrubble04
+    4300012: smallrubble03
+    4300014: smallrubble02
+    4300016: metalframe
+    4300018: pillar02
+    4300020: wall01
+    4300022: wall02
+    4300024: wall03withsides
+    4300026: wall04withsides
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

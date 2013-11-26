@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/QController.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/PlayerRelativeControl.js" Line="120" Column="40" />
+      <File FileName="Assets/scripts/QController.cs" Line="78" Column="1" />
+      <File FileName="Assets/Plugins/Joystick.js" Line="11" Column="61" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" Line="62" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
